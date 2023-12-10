@@ -4,3 +4,6 @@ body{
 header{
     color: red;
 }
+header p{
+    color: brown;
+}
